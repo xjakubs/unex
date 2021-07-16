@@ -1,2 +1,0 @@
-# unex
-Universal Expo
